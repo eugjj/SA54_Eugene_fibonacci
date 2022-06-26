@@ -2,11 +2,11 @@
   "runtime": {
     "majorVersion": "8"
   },
-  "command": "java -jar FibonacciApp.jar",
+  "command": "java -jar sa54_eugene_fibonacci.jar",
   "release": {
     "build": "150520.1154",
     "commit": "d8c2596364d9584050461",
-    "version": "1.0"
+    "version": "15.1.0"
   },
-  "notes": "Fibonacci REST service"
+  "notes": "SA54 Eugene Ong - Oracle internship fibonacci"
 }
