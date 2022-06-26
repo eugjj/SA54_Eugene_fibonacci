@@ -1,0 +1,12 @@
+{
+  "runtime": {
+    "majorVersion": "8"
+  },
+  "command": "java -jar FibonacciApp.jar",
+  "release": {
+    "build": "150520.1154",
+    "commit": "d8c2596364d9584050461",
+    "version": "1.0"
+  },
+  "notes": "Fibonacci REST service"
+}
